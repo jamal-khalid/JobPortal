@@ -1,3 +1,7 @@
+### job_portal file is Django Project 
+### jobapp file is django app
+
+
 ### Django REST API Setup
 This repository contains a Django project with a RESTful API using Django REST Framework.
 
